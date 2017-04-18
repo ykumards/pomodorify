@@ -35,7 +35,7 @@ function call_logger() {
 	date >> $LOGFILE_PATH;
 	echo -e "\n" >> $LOGFILE_PATH
 	#vim + -c 'startinsert' "$LOGFILE_PATH";
-	$DEFAULT_EDITOR + -c 'startinsert' "$LOGFILE_PATH"
+	$DEFAULT_EDITOR "$LOGFILE_PATH"
 }
 
 COUNT=0
