@@ -10,6 +10,7 @@ You can use this script to run a simple pomodoro timer that plays music from Spo
 * Change the permissions for `pomodify.sh` and `spotify` using `chmod 700`
 * Change the logger file path (or comment out all lines related to logging)
 * Open Spotify app
+* Change the Spotify playlist URI in `pomodify.sh` file. The default is a [coding playlist](https://open.spotify.com/user/125937873/playlist/5SgJR30RfzR5hO21TsQhBp) that I love.
 * Run the script using `./pomodify.sh`. You could also add an alias to the `.bash_profile`.
 
 ### How it works
