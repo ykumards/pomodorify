@@ -24,7 +24,7 @@ You can use this script to run a simple pomodoro timer that plays music from Spo
 You can disable this by commenting out the appropriate lines if you'd like, but the main idea was to keep a log of the task that was done, or copying some nagging thoughts onto the dump file, or anything else you want.
 
 ### Default Editor
-I've use MacVim as the deafult editor here coz vim is lightweight and is configurable (like, you can open it in such a way that the cursor is always at the end)
+I've used MacVim as the default editor here coz vim is lightweight and is configurable (like, you can open it in such a way that the cursor is always at the end)
 
 ### Credits
 - The inspiration for this was `christiangenco`'s  comment on [this](https://news.ycombinator.com/item?id=12585670) HN thread.
