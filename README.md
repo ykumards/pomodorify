@@ -5,6 +5,13 @@ You can use this script to run a simple pomodoro timer that plays music from Spo
 * Spotify desktop app (obviously)
 * Macvim is used as the default editor, you can use anything else (I've also tested it with sublime)
 
+### Installing
+* Clone this repo
+* Change the permissions for `pomodify.sh` and `spotify` using `chmod 700`
+* Change the logger file path (or comment out all lines related to logging)
+* Open Spotify app
+* Run the script using `./pomodify.sh`. You could also add an alias to the `.bash_profile`.
+
 ### How it works
 1. You can point the script to any Spotify playlist of your choice
 2. The music plays when you work (default 25 minute work sessions)
