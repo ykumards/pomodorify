@@ -1,6 +1,8 @@
 # pomodify
 You can use this script to run a simple pomodoro timer that plays music from Spotify while you work from the command line on Mac. 
 
+![Screenshot](https://github.com/ykumards/pomodify/blob/master/pomodify.png)
+
 ### Prereqs
 * Spotify desktop app (obviously)
 * Macvim is used as the default editor, you can use anything else (I've also tested it with sublime)
