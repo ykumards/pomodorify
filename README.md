@@ -1,4 +1,4 @@
-# pomodify
+# pomodorify
 You can use this script to run a simple pomodoro timer that plays music from Spotify while you work from the command line on Mac. 
 
 ![Screenshot](https://github.com/ykumards/pomodify/blob/master/pomodify.png)
